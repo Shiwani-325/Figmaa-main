@@ -1,0 +1,132 @@
+.header .pocket {
+  display: flex;
+  align-content: space-around;
+  float: left;
+  margin-top: 55px;
+  margin-left: 150px;
+}
+
+.header .image1 {
+  position: absolute;
+  top: 270px;
+  left: 35px;
+}
+
+.header .image2 {
+  position: absolute;
+  top: 270px;
+  left: 630px;
+}
+
+.header .image3 {
+  position: relative;
+  left: 830px;
+  top: 270px;
+}
+
+.header .image4 {
+  position: relative;
+
+  top: -406px;
+  left: -41px;
+}
+
+.header .rect1 img {
+  position: relative;
+  top: -700px;
+  height: 260px;
+  left: -800px;
+  bottom: 80px;
+}
+
+.header .image3 .btn {
+  position: absolute;
+  top: 268px;
+  left: 476px;
+}
+
+.newBtn button {
+  display: flex;
+  justify-content: space-around;
+  width: 500px;
+  height: 100px;
+  border-radius: 20px;
+  position: relative;
+  bottom: 450px;
+  left: 35px;
+  border: none;
+}
+
+.newBtn button img {
+  margin-top: 15px;
+  margin-left: -40px;
+}
+
+.newBtn button h4 {
+  margin-top: 30px;
+  font-size: 30px;
+  color: rgb(250, 186, 189);
+}
+
+.image1 h1 {
+  margin-left: 180px;
+  font-size: 40px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.image2 h1 {
+  margin-left: 130px;
+  font-size: 40px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.image2 p {
+  position: relative;
+  bottom: 160px;
+  left: 120px;
+  font-size: 20px;
+  padding: 5px;
+}
+
+.image3 h1 {
+  margin-left: 250px;
+  font-size: 40px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.rectan {
+  display: flex;
+  position: relative;
+  left: 600px;
+}
+
+.rectan .one img {
+  border-radius: 20px;
+  height: 200px;
+  position: relative;
+  left: 200px;
+}
+
+.rectan .two img {
+  height: 200px;
+}
+
+.rectan .three img {
+  border-radius: 20px 0;
+  height: 200px;
+}
+
+.pic1 img {
+  position: relative;
+
+  right: 20px;
+  top: 25px;
+  height: 100px;
+}
+
+.para p {
+  font-size: 100px;
+}

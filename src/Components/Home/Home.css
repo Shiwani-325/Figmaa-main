@@ -1,0 +1,157 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .pocket {
+  display: flex;
+  align-content: space-around;
+  float: left;
+  margin-top: 55px;
+  margin-left: 150px;
+}
+
+.header .option {
+  display: flex;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  position: relative;
+  justify-content: space-between;
+  width: 60%;
+  right: 0;
+  top: 40px;
+  margin-right: 10px;
+  z-index: 10;
+}
+
+.background > img {
+  height: 120vh;
+  float: right;
+  position: relative;
+  bottom: 115px;
+}
+
+.girl img {
+  position: relative;
+  width: 490px;
+  height: 490px;
+  left: 770px;
+  top: 70px;
+}
+
+.btn {
+  border-radius: 20px;
+  padding: 13px 13px;
+  width: 200px;
+  background-color: orangered;
+  color: #fff;
+  border: none;
+}
+
+.last img {
+  height: 29px;
+  position: relative;
+  bottom: 220px;
+  left: 120px;
+}
+
+.last1 img {
+  height: 20px;
+  position: relative;
+  bottom: 190px;
+  left: 200px;
+}
+
+.last2 img {
+  position: relative;
+  bottom: 190px;
+  left: 200px;
+}
+
+.last3 img {
+  position: relative;
+  bottom: 170px;
+  left: 200px;
+}
+
+.button2 {
+  position: relative;
+  left: 200px;
+  bottom: 140px;
+}
+
+.footer {
+  margin-left: 800px;
+}
+
+.section {
+  height: 200vh;
+}
+
+.next img {
+  height: 1700px;
+  width: 1400px;
+  position: relative;
+  bottom: 100px;
+  left: 150px;
+}
+
+.text3 p {
+  font-size: 30px;
+  font-family: "poppins" sans-serif;
+  position: relative;
+  left: 970px;
+  bottom: 1100px;
+}
+
+.text3 h1 {
+  font-size: 40px;
+  font-family: "poppins" sans-serif;
+  position: relative;
+  left: 970px;
+  bottom: 1080px;
+}
+
+.p p {
+  font-size: 30px;
+  font-family: "poppins" sans-serif;
+  position: relative;
+  left: 970px;
+  bottom: 1040px;
+}
+
+.next1 img {
+  position: relative;
+  left: 10px;
+  bottom: 1655px;
+  height: 919px;
+}
+
+.next2 img {
+  position: relative;
+  left: 188px;
+  bottom: 2703px;
+  height: 1116px;
+}
+
+.next3 img {
+  position: relative;
+  left: 235px;
+  bottom: 3878px;
+  height: 1212px;
+  width: 800px;
+}
+
+.button2 button {
+  position: relative;
+  left: 760px;
+  bottom: 4050px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(239, 81, 5);
+  border: none;
+  border-radius: 40px;
+  font-size: 30px;
+  width: 270px;
+}
